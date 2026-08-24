@@ -3,8 +3,9 @@
 An interactive canvassing and leafletting tracker for UK parliamentary constituencies. Volunteers can view road-level status, plan routes, and mark progress in real time via a Google Sheets backend.
 
 Currently deployed for:
-- **Stafford Constituency** — `daemeous.github.io/leaflet-map/coton.html` *(and other wards)*
+- **Stafford Constituency**
 - **Stone, Great Wyrley and Penkridge Constituency**
+- **Burton and Uttoxeter Constituency**
 
 ---
 
